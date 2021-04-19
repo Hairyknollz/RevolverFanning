@@ -1,0 +1,1 @@
+Changes the Revolver from a single shot weapon to a 6 round burst "fanning" style weapon.

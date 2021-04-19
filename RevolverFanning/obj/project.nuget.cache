@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CP9PZHnmLKmVlAxPCJ4M63jJoE8ifTH56RoPihTUOrFhabAmy/T9ZY1K3y/3x0L3NJLB4MIm5enE2Ez3Fmwe4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jonat\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\RevolverFanning\\RevolverFanning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonat\\.nuget\\packages\\tmodloader.codeassist\\0.1.2\\tmodloader.codeassist.0.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,3 @@
+displayName = Revolver Fanning
+author = DomesUnderTheHammer
+version = 1.0
