@@ -14,6 +14,7 @@ namespace RevolverFanning.Items
             item.useAnimation = 48;
             item.useTime = 8;
             item.reuseDelay = 80;
+            item.UseSound = mod.GetLegacySoundSlot(SoundType.Item, "Sounds/Item/BurstFire");
         }
 
         //public override void AddRecipes()
